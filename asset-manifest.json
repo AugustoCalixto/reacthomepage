@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AugustoCalixto/ReactHomepage/static/css/main.073c9b0a.css",
+    "main.js": "/AugustoCalixto/ReactHomepage/static/js/main.f6183e53.js",
+    "static/js/787.23192e97.chunk.js": "/AugustoCalixto/ReactHomepage/static/js/787.23192e97.chunk.js",
+    "static/media/logo.svg": "/AugustoCalixto/ReactHomepage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AugustoCalixto/ReactHomepage/index.html",
+    "main.073c9b0a.css.map": "/AugustoCalixto/ReactHomepage/static/css/main.073c9b0a.css.map",
+    "main.f6183e53.js.map": "/AugustoCalixto/ReactHomepage/static/js/main.f6183e53.js.map",
+    "787.23192e97.chunk.js.map": "/AugustoCalixto/ReactHomepage/static/js/787.23192e97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f6183e53.js"
+  ]
+}
